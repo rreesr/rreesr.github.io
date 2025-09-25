@@ -1,0 +1,4 @@
+{
+    "Windows": "https://www.torproject.org/dist/torbrowser/12.5.0/torbrowser-install-win64-12.5.0_en-US.exe",
+    "Linux": "https://www.torproject.org/dist/torbrowser/12.5.0/tor-browser-linux64-12.5.0_en-US.tar.xz"
+}
